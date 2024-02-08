@@ -1,4 +1,3 @@
-# Sentiment Analysis on Chinese Tech Stocks
 
 ## Overview
 
